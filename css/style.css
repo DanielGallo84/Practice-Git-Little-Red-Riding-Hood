@@ -1,0 +1,11 @@
+.cabecera{
+    height: 150px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color: white;
+}
